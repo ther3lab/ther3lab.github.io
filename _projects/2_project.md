@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
+title: What are the Implications of Stochasticity for Regulation?
 description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+img: assets/img/SGE.png
 importance: 2
 category: work
 giscus_comments: true
