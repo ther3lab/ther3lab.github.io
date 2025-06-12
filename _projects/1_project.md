@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: The Evolution of Regulatory Systems
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/Great_Seal_of_the_United_States_(obverse).svg.png
 importance: 1
 category: work
 related_publications: true
