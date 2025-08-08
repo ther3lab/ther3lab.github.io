@@ -1,8 +1,8 @@
 ---
 layout: page
-title: What Role does Functional Diversity Play in Regulation?
+title: diversity in complex systems
 description: a project that redirects to another website
-img: assets/img/Waldo.png
+img: assets/img/div-cs.png
 redirect: https://unsplash.com
 importance: 3
 category: work
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/div-cs.png
     ---
 
 <div class="row">
