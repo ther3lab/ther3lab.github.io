@@ -45,13 +45,13 @@ ninja.data = [{
             },},{id: "news-the-rules-regulations-and-randomness-r-3-lab-will-be-starting-at-washu-s-department-of-biology-in-fall-2026",
           title: 'The Rules, Regulations and Randomness ($R^3$) Lab will be starting at WashU’s department...',
           description: "",
-          section: "News",},{id: "projects-the-evolution-of-regulatory-systems",
-          title: 'The Evolution of Regulatory Systems',
+          section: "News",},{id: "projects-evolution-of-regulatory-systems",
+          title: 'evolution of regulatory systems',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-what-are-the-implications-of-stochasticity-for-regulation",
-          title: 'What are the Implications of Stochasticity for Regulation?',
+            },},{id: "projects-stochastic-regulatory-systems",
+          title: 'stochastic regulatory systems',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
