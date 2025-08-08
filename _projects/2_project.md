@@ -1,7 +1,7 @@
 ---
 layout: page
 title: stochastic regulatory systems
-description: a project with a background image and giscus comments
+description:
 img: assets/img/stoch-reg-sys.png
 importance: 2
 category: work
