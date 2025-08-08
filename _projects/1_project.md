@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Evolution of Regulatory Systems
+title: evolution of regulatory systems
 description: with background image
 img: assets/img/Great_Seal_of_the_United_States_(obverse).svg.png
 importance: 1
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/evo-grn.png
     ---
 
 <div class="row">
