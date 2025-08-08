@@ -2,7 +2,7 @@
 layout: page
 title: evolution of regulatory systems
 description: with background image
-img: assets/img/Great_Seal_of_the_United_States_(obverse).svg.png
+img: assets/img/evo-grn.png
 importance: 1
 category: work
 related_publications: true
