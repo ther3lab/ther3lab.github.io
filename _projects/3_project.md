@@ -7,74 +7,23 @@ importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+An abundance of diversity is one of the defining hallmarks of biology—but it is a characteristic seen across complex systems. In biology we see diversity in the myriad of proteins of different functions, the many cell types that make up the human body, and in the biodiversity of diverse ecologies. Across the social world, diversity is seen in the occupational diversity of cities, the diverse hierarchies of companies, and the range of subject available to be studied at college. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The increase of diversity can be seen as a result of the accumulation of errors in self-sustaining complex adaptive systems. "Errors" in replication can have unintended utility in novel environments. Exactly how systems utilize different numbers of functional elements, and different compositions of those functional elements—and how these aspects of diversity contribute to the relationship between diversity, robustness and organismal fitness—is not well understood.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/div-cs.png
-    ---
+The $R^3$ Lab is currently researching several questions on the role of diversity in complex adaptive systems:
+- How does the number of functional elements scale with system size?
+- Why do some complex systems express universal and self-similar compositions across system size, while others do not?
+- How does environmental noise/uncertainy drive the usage of diverse functional elements in evolutionary models?
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/div-cs.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Research from the $R^3$ Lab on diversity in biology and other complex systems:
+- [
+Scaling laws for function diversity and specialization across socioeconomic and biological complex systems. James Holehouse*, Vicky Chuqiao Yang*, Christopher P. Kempes, and Hyejin Youn, Jose Ignacio Arroyo, Sidney Redner, Geoffrey B. West. 2025. Under review at PNAS.](https://drive.google.com/file/d/1_HzBkVoE_jO8zTySKW52d7yhrbmcNhSz/view?usp=sharing)
+- A generative model of function growth explains self-similar organizations of biological and social systems. James Holehouse, S. Redner, Vicky Chuqiao Yang, P. L. Krapivsky, José Ignacio Arroyo, Geoffrey B. West, Hyejin Youn, and Chris Kempes. 2025. Working paper.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
