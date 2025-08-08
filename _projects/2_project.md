@@ -1,8 +1,8 @@
 ---
 layout: page
-title: What are the Implications of Stochasticity for Regulation?
+title: stochastic regulatory systems
 description: a project with a background image and giscus comments
-img: assets/img/SGE.png
+img: assets/img/stoch-reg-sys.png
 importance: 2
 category: work
 giscus_comments: true
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/stoch-reg-sys.png
     ---
 
 <div class="row">
