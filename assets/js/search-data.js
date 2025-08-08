@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-research",
+          title: "research",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -52,12 +52,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-stochastic-regulatory-systems",
           title: 'stochastic regulatory systems',
-          description: "a project with a background image and giscus comments",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-diversity-in-complex-systems",
           title: 'diversity in complex systems',
-          description: "a project that redirects to another website",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},{
