@@ -1,7 +1,7 @@
 ---
 layout: page
 title: diversity in complex systems
-description: a project that redirects to another website
+description:
 img: assets/img/div-cs.png
 importance: 3
 category: work
