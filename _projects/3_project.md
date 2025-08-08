@@ -3,7 +3,6 @@ layout: page
 title: diversity in complex systems
 description: a project that redirects to another website
 img: assets/img/div-cs.png
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
