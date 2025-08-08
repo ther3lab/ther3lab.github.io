@@ -1,7 +1,7 @@
 ---
 layout: page
-title: evolution of regulatory systems
-description: with background image
+title: the evolution of regulatory systems
+description: 
 img: assets/img/evo-grn.png
 importance: 1
 category: work
