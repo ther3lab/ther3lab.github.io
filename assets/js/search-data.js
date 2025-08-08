@@ -57,7 +57,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-diversity-in-complex-systems",
           title: 'diversity in complex systems',
-          description: "a project that redirects to another website",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},{
