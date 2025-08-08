@@ -16,8 +16,8 @@ The $R^3$ Lab is currently researching several questions on the role of diversit
 - Why do some complex systems express universal and self-similar compositions across system size, while others do not?
 - How does environmental noise/uncertainy drive the usage of diverse functional elements in evolutionary models?
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="assets/img/div-cs.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
