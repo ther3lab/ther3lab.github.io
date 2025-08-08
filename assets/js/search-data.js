@@ -52,12 +52,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-stochastic-regulatory-systems",
           title: 'stochastic regulatory systems',
-          description: "",
+          description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-diversity-in-complex-systems",
           title: 'diversity in complex systems',
-          description: "",
+          description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},{
