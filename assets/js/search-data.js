@@ -45,8 +45,8 @@ ninja.data = [{
             },},{id: "news-the-rules-regulations-and-randomness-r-3-lab-will-be-starting-at-washu-s-department-of-biology-in-fall-2026",
           title: 'The Rules, Regulations and Randomness ($R^3$) Lab will be starting at WashU’s department...',
           description: "",
-          section: "News",},{id: "projects-evolution-of-regulatory-systems",
-          title: 'evolution of regulatory systems',
+          section: "News",},{id: "projects-the-evolution-of-regulatory-systems",
+          title: 'The Evolution of Regulatory Systems',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
