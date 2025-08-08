@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Rule, Regulations and Randomness
+subtitle: Rules, Regulations and Randomness
 
 profile:
   align: right
@@ -24,11 +24,11 @@ announcements:
 
 ---
 
-### We study the growth of rules and regulations across Biology and Society, and the role that randomness plays in shaping system function and structure.
+### We study the growth of rules and regulations across Biology and Society, and the role that randomness plays in shaping a system's function and structure.
 
-Some questions driving the $R^3$ Lab's most recent research are:
-- In what ways are biological regulations networks like social rule books?
+Core questions driving the $R^3$ Lab's research are:
+- In what ways are biological regulatory networks like societal rule books?
 - How does biochemical randomness complicate our understanding of genetic regulation?
 - What are the constraints dictating how regulatory systems diversify, specialize and coordinate themselves?
 
-The Lab is activeley recruiting PhD students and Postdocs from Comp+Math+Evo Bio, Applied Math, and Statistical Physics backgrounds—please get in touch.
+The Lab is activeley recruiting PhD students and Postdocs from Comp Bio, Math Bio, Evo Bio, Applied Math, and Statistical Physics backgrounds—please get in touch!
