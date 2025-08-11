@@ -5,7 +5,7 @@ description:
 img: assets/img/stoch-grn.png
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Fundamentally, cells are stochastic biological systems—involving dynamics that are inherently random and non-deterministic. Variation arises in cells simply as a result of molecular and environmental variations—manifested in broad distributions of proteins, mRNAs and other gene products across genetically identical cells. Although cells have evolved to minimize the affects noise in their control mechanisms, randomness has also been shown to provide novel useful behaviors not possible under a deterministic biological narrative.
