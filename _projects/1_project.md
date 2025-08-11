@@ -5,7 +5,7 @@ description:
 img: assets/img/evo-grn.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Regulatory systems are all around us—from gene regulatory networks in cells, to code of law in societies, to the rules dictating how sports are played. The role of a regulatory system is to maintain robust system function, whether counteracting internally deletrious characteristics or noise that is changing the environmental context a system exists in. Regulatory systems are often studied on a case-by-case basis, without attempting to explore general regulatory principles that might unify regulation across different contexts. What similarities might be shared between radically different complex systems? What differences in regulatory architecture explore core differences in the function of different complex systems?
