@@ -2,7 +2,7 @@
 layout: page
 title: stochastic regulatory systems
 description:
-img: assets/img/stoch-reg-sys.png
+img: assets/img/stoch-grn.png
 importance: 2
 category: work
 giscus_comments: true
