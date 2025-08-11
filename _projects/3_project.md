@@ -7,14 +7,14 @@ importance: 3
 category: work
 ---
 
-An abundance of diversity is one of the defining hallmarks of biology—but it is a characteristic seen across complex systems. In biology we see diversity in the myriad of proteins of different functions, the many cell types that make up the human body, and in the biodiversity of diverse ecologies. Across the social world, diversity is seen in the occupational diversity of cities, the diverse hierarchies of companies, and the range of subject available to be studied at college. 
+An abundance of diversity is one of the defining hallmarks of biology—but it is a characteristic seen across complex systems. In biology we see diversity in the myriad of proteins of different functions, the many cell types that make up the human body, and in the biodiversity of diverse ecologies. Across the social world, diversity is seen in the occupational diversity of cities, the diverse hierarchies of companies, and the range of degrees available to be studied at college. 
 
 The increase of diversity can be seen as a result of the accumulation of errors in self-sustaining complex adaptive systems. "Errors" in replication can have unintended utility in novel environments. Exactly how systems utilize different numbers of functional elements, and different compositions of those functional elements—and how these aspects of diversity contribute to the relationship between diversity, robustness and organismal fitness—is not well understood.
 
 The $R^3$ Lab is currently researching several questions on the role of diversity in complex adaptive systems:
 - How does the number of functional elements scale with system size?
 - Why do some complex systems express universal and self-similar compositions across system size, while others do not?
-- How does environmental noise/uncertainy drive the usage of diverse functional elements in evolutionary models?
+- How does environmental noise/uncertainty drive the usage of diverse functional elements in evolutionary models?
 
 <div class="row justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0 text-center">
