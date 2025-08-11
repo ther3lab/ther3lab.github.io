@@ -8,12 +8,14 @@ category: work
 giscus_comments: true
 ---
 
-... Preamble needed...
+Fundamentally, cells are stochastic biological systems—involving dynamics that are inherently random and non-deterministic. Variation arises in cells simply as a result of molecular and environmental variations—manifested in broad distributions of proteins, mRNAs and other gene products across genetically identical cells. Although cells have evolved to minimize the affects noise in their control mechanisms, randomness has also been shown to provide novel useful behaviors not possible under a deterministic biological narrative.
+
+Many of the effects of randomness in biological systems are not well understood, even in the simplest cases. The $R^3$ Lab takes a combined analytic and compuational approach to understanding the non-intuitive nature of cellular randomness, taking interest in the distributions of mRNAs, proteins and genetic regulation. We often challenge the steady state narrative often used to explain cellular behaviors, and take most interest in the qualitative, rather than quantitative features, of mathematical biological modeling.
 
 The $R^3$ Lab is currently researching several questions on the role of stochasticity in gene regulation:
 - What phenomena are possible under stochastic dynamics that are not present under deterministic dynamics?
 - How do regulatory networks function in the presence of environmental and molecular noise?
-- What mechanisms allow gene regulatory networks to evolve in the presence of noise?
+- Do transient stochastic dynamics offer novel mechanisms of cellular function that are not possible in "biological steady states"?
 
 <div class="row justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0 text-center">
@@ -22,4 +24,7 @@ The $R^3$ Lab is currently researching several questions on the role of stochast
 </div>
 
 Research from the $R^3$ Lab on the role of stochasticity in gene regulation:
-- ...
+- [Holehouse, J. (2025). From Single Genes to Populations: Quantifying Broken Detailed Balance in Transcription. arXiv preprint arXiv:2405.12897.](https://arxiv.org/abs/2405.12897)
+- [Holehouse, J. (2025). Do Distinct Subpopulations Signify Modes of Behavior in a Noisy Single Cell?. bioRxiv, 2025-07.](https://www.biorxiv.org/content/10.1101/2025.07.22.666238v1.abstract)
+- Pandya A., Holehouse, J. (2025). Transcriptional noise can tune the correlations between stages in the mRNA lifetime. Working paper.
+- Holehouse, J., Sukys, A., Öcal, K. (2025) The Origins of Transient Bimodality. Working paper.
