@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: 
+description: broad research direction in the $R^3$ Lab
 nav: true
 nav_order: 3
 display_categories: [work]
