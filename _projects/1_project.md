@@ -25,6 +25,6 @@ The $R^3$ Lab is currently researching several questions on the evolution of reg
 
 Research from the $R^3$ Lab on the evolution of regulatory systems:
 - **Holehouse, J., Jeong, D.**, Yoon, J., Kempes, C., West, G. B., & Youn, H. (2025). [A Century of Evolution in the Complexity of the United States Legal Code. arXiv preprint arXiv:2507.14342.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5354996)
-- Chia, D., Youn, H., West, G.B., Jeong, D., **Holehouse, J.**. (2025). The evolution of the rules of cricket. Working paper.
+- Chia, D., Youn, H., West, G.B., Jeong, D., **Holehouse, J.** (2025). The evolution of the rules of cricket. Working paper.
 - Estrella, L., Muratore, D., Kempes, C., Holehouse, J. (2025). How do gene regulatory networks successfully evolve in the presence of extreme environmental noise? Working paper.
 
