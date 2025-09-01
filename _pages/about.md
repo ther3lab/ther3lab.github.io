@@ -31,4 +31,4 @@ Core questions driving the $R^3$ Lab's research are:
 - How does biochemical randomness complicate our understanding of genetic regulation?
 - What are the constraints dictating how regulatory systems diversify, specialize and coordinate themselves?
 
-The Lab is activeley recruiting PhD students and Postdocs from Comp Bio, Math Bio, Evo Bio, Applied Math, and Statistical Physics backgrounds—please get in touch!
+James, the PI, will be joining WashU as an assistant professor in the Fall of 2026. Until then he will be doing research at the Santa Fe Institute. The Lab is activeley recruiting PhD students and Postdocs from Comp Bio, Math Bio, Evo Bio, Applied Math, and Statistical Physics backgrounds to start at/after Fall 2026—please get in touch!
