@@ -13,10 +13,9 @@ profiles:
     image: James©Merriam010.jpg
     content: about_james_postdoc.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>209 Rebstock Hall</p>
-      <p>Washington University</p>
-      <p>St Louis, USA</p>
+  more_info: >
+     <p>Santa Fe Institute</p>
+     <p>Santa Fe, NM, 87501</p>
   #- align: left
   #  image: prof_pic.jpg
   #  content: about_james.md
