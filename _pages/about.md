@@ -24,7 +24,7 @@ announcements:
 
 ---
 
-### We study the growth of rules and regulations across Biology and Society, and the role that randomness plays in shaping a system's function and structure.
+#### We study the growth of rules and regulations across Biology and Society, and the role that randomness plays in shaping a system's function and structure.
 
 Core questions driving the $R^3$ Lab's research are:
 - In what ways are biological regulatory networks like societal rule books?
