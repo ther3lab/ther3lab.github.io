@@ -16,7 +16,7 @@ profiles:
   more_info: >
      <p>Santa Fe Institute</p>
      <p>Santa Fe, NM, 87501</p>
-  #- align: left
+  #  align: left
   #  image: prof_pic.jpg
   #  content: about_james.md
   #  image_circular: false # crops the image to make it circular
