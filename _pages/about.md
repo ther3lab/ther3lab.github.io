@@ -10,11 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>James Holehouse</p>
-    <p>209 Rebstock Hall</p>
-    <p>Washington University</p>
-    <p>St Louis, USA</p>
+    <p>Santa Fe Institute</p>
+    <p>Santa Fe, NM, 87501</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -31,4 +30,4 @@ Core questions driving the $R^3$ Lab's research are:
 - How does biochemical randomness complicate our understanding of genetic regulation?
 - What are the constraints dictating how regulatory systems diversify, specialize and coordinate themselves?
 
-James, the PI, will be joining WashU as an assistant professor in the Fall of 2026. Until then he will be doing research at the Santa Fe Institute. The Lab is activeley recruiting PhD students and Postdocs from Comp Bio, Math Bio, Evo Bio, Applied Math, and Statistical Physics backgrounds to start at/after Fall 2026—please get in touch!
+James, the PI, will be joining **WashU as an assistant professor in the Fall of 2026**. Until then he will be doing research at the Santa Fe Institute. The Lab is activeley recruiting PhD students and Postdocs from Comp Bio, Math Bio, Evo Bio, Applied Math, and Statistical Physics backgrounds to start at/after Fall 2026—please get in touch!
