@@ -14,6 +14,7 @@ profiles:
     content: about_james_postdoc.md
     image_circular: false # crops the image to make it circular
     more_info: >
+     <p>James Holehouse</p>
      <p>Santa Fe Institute</p>
      <p>Santa Fe, NM, 87501</p>
   # -  align: left
