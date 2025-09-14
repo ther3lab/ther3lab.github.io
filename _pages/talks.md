@@ -7,6 +7,9 @@ nav: true
 nav_order: 8
 ---
 
+- **Workshop talk** at the Emergent Simplicity in Biophysical Dynamics Workshop in Telluride Science. 2025. *Universal Models of Diversity Growth and Regulatory Scaling*.
+- **Mini-symposium organizer** at the Society of Mathematical Biology's Conference, Edmonton. 2025. *The Unexpected Consequences of Stochasticity in Cell Biology.*
+- **Contributed talk** at the Society of Mathematical Biology's Conference, Edmonton. 2025. *Bifurcation Behaviors in Time: The Origins of Transient Bimodality.*
 - **Seminar** at UPenn's MathBio Seminar Series. 2025. *Regulation, Organization and Stochasticity across the Tree of Life.*
 - **Workshop talk** at the Santa Fe Institute's Emergent Engineering Technology Summit. 2025. *Leveling the playing field: Rule evolution in sports, governance and biology.*
 - **Seminar** at Brown University's Data Science Institute. 2025. *Rules, Regulations and Randomness: From Biological to Social Systems.* [Watch here](https://www.youtube.com/watch?v=27dDdFq_RGI)
