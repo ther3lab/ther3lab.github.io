@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
+        },{id: "nav-talks",
+          title: "talks",
+          description: "talks from the PI, James Holehouse",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
