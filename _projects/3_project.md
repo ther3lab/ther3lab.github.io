@@ -25,5 +25,5 @@ The $R^3$ Lab is currently researching several questions on the role of diversit
 Research from the $R^3$ Lab on diversity in biology and other complex systems:
 - [
 Scaling laws for function diversity and specialization across socioeconomic and biological complex systems.](https://drive.google.com/file/d/1_HzBkVoE_jO8zTySKW52d7yhrbmcNhSz/view?usp=sharing) James Holehouse\*, Vicky Chuqiao Yang\*, Christopher P. Kempes, and Hyejin Youn, Jose Ignacio Arroyo, Sidney Redner, Geoffrey B. West. 2025. Under review at PNAS.
-- A generative model of function growth explains self-similar organizations of biological and social systems. James Holehouse, S. Redner, Vicky Chuqiao Yang, P. L. Krapivsky, José Ignacio Arroyo, Geoffrey B. West, Hyejin Youn, and Chris Kempes. 2025. Working paper.
+- [A generative model of function growth explains self-similar organizations of biological and social systems.](https://arxiv.org/pdf/2509.14468) James Holehouse, S. Redner, Vicky Chuqiao Yang, P. L. Krapivsky, José Ignacio Arroyo, Geoffrey B. West, Hyejin Youn, and Chris Kempes. 2025. Under review at Science Advances.
 
