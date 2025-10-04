@@ -7,6 +7,7 @@ nav: true
 nav_order: 8
 ---
 
+- **Symposium Talk** at SFI's Annual Fall Symposium on The Rules of the Game. 2025. *The Science of Sports Rules*.
 - **Workshop talk** at the Emergent Simplicity in Biophysical Dynamics Workshop in Telluride Science. 2025. *Universal Models of Diversity Growth and Regulatory Scaling*.
 - **Mini-symposium organizer** at the Society of Mathematical Biology's Conference, Edmonton. 2025. *The Unexpected Consequences of Stochasticity in Cell Biology.*
 - **Contributed talk** at the Society of Mathematical Biology's Conference, Edmonton. 2025. *Bifurcation Behaviors in Time: The Origins of Transient Bimodality.*
