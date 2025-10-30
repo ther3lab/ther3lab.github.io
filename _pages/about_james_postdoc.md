@@ -6,4 +6,4 @@ James' interests span the growth of rules and regulations in biology and society
 - Understanding the relationships between the organization of cells, federal agencies and cities.
 - Exploring the role of transient behavioral modes in gene regulatory mechanisms.
 
-For an overview of the philosophy behind some of James' work, please see [this video](https://www.youtube.com/watch?v=Ue8k1t9kHWI). You can access James' full CV [here](https://drive.google.com/file/d/1MyIZt46FGgRsotwcdy3bUkJr21j_OLBV/view?usp=sharing). Please contact James at [jamesholehouse1@gmail.com](jamesholehouse1@gmail.com).
+For an overview of the philosophy behind some of James' work, please see [this video](https://www.youtube.com/watch?v=Ue8k1t9kHWI). You can access James' full CV [here](https://drive.google.com/file/d/1MyIZt46FGgRsotwcdy3bUkJr21j_OLBV/view?usp=sharing). Please contact James at [jamesholehouse1@gmail.com](mailto:jamesholehouse1@gmail.com).
