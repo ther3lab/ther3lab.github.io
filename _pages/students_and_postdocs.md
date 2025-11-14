@@ -15,7 +15,7 @@ For those interested in joining the lab, the recommended reading list is:
 - *Diversity and Complexity* (see [here](https://www.amazon.com/Diversity-Complexity-Primers-Complex-Systems/dp/0691137676)). Fun read on the role of diversity across biological and social systems.
 - *Robustness and Evolvability in Living Systems* (see [here](https://www.amazon.com/Robustness-Evolvability-Systems-Princeton-Complexity/dp/0691134049)). One of James' favorite books in science—emphasizes the importance of robustness across multiple scales of biology.
 - *The Complex World: An Introduction to the Foundations of Complexity Science* (see [here](https://www.amazon.com/Complex-World-Introduction-Foundations-Complexity/dp/1947864629)). Contemporary summary of the philosophy underlying complex systems science.
-- *Synergetics: Introduction and Advanced Topics* (see [here](https://www.amazon.com/dp/3642074057?ref=ppx_yo2ov_dt_b_fed_asin_title)). Another of James' favorites—a summary of many of the methods used in the R3 lab, accompanied by a deep philosophy of self-organizing systems.
+- *Synergetics: Introduction and Advanced Topics* (see [here](https://www.amazon.com/dp/3642074057?ref=ppx_yo2ov_dt_b_fed_asin_title)). Another of James' favorites—a summary of many of the methods used in the $R^3$ lab, accompanied by a deep philosophy of self-organizing systems.
 
 Interested **graduate or undergraduate students** should feel welcome to send [James an email](mailto:jamesholehouse1@gmail.com) declaring their interest. Please include a CV, and please keep the email short and to-the-point. Emails that appear to be AI generated, or overly verbose, may be ignored. Graduate students are expected to engage on topics of joint interest with the PI.
 
