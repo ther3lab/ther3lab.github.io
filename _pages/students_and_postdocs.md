@@ -17,6 +17,8 @@ For those interested in joining the lab, the recommended reading list is:
 - *The Complex World: An Introduction to the Foundations of Complexity Science* (see [here](https://www.amazon.com/Complex-World-Introduction-Foundations-Complexity/dp/1947864629)). Contemporary summary of the philosophy underlying complex systems science.
 - *Synergetics: Introduction and Advanced Topics* (see [here](https://www.amazon.com/dp/3642074057?ref=ppx_yo2ov_dt_b_fed_asin_title)). Another of James' favorites—a summary of many of the methods used in the $R^3$ lab, accompanied by a deep philosophy of self-organizing systems.
 
+More reading materials, on more specific topics of research, can be provided by the PI.
+
 All people considering joining the lab should be proficient in both basic **scientific programming** and **mathematical methods**. All members of the lab should take interest in both computational and mathematical approaches to theoretical biology.
 
 Interested **graduate or undergraduate students** should feel welcome to send [James an email](mailto:jamesholehouse1@gmail.com) declaring their interest. Please include a CV, and please keep the email short and to-the-point. Emails that appear to be AI generated, or overly verbose, may be ignored. Students are expected to engage on topics of joint interest with the PI. Graduate students should apply to either the Ecology & Evolutionary Biology or Computational & Systems Biology programs in WashU's DBBS (see [here](https://dbbs.wustl.edu/programs/)). 
