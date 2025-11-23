@@ -7,7 +7,7 @@ nav: true
 nav_order: 10
 ---
 
-For those interested in joining the lab, the recommended reading list is:
+For those interested in joining the lab, the recommended "reading" list is:
 
 - *Exploring complexity* (see [here](https://www.amazon.com/Exploring-Complexity-Introduction-Gregoire-Nicolis/dp/0716718596)). Classic introduction to a broad array of complexity science and mathematical biology.
 - *Stochastic Processes in Physics and Chemistry* (see [here](https://www.amazon.com/Stochastic-Processes-Chemistry-North-Holland-Personal/dp/0444529659)). The go-to book for learning stochastic methods for biochemical kinetics.
@@ -16,10 +16,12 @@ For those interested in joining the lab, the recommended reading list is:
 - *Robustness and Evolvability in Living Systems* (see [here](https://www.amazon.com/Robustness-Evolvability-Systems-Princeton-Complexity/dp/0691134049)). One of James' favorite books in science—emphasizes the importance of robustness across multiple scales of biology.
 - *The Complex World: An Introduction to the Foundations of Complexity Science* (see [here](https://www.amazon.com/Complex-World-Introduction-Foundations-Complexity/dp/1947864629)). Contemporary summary of the philosophy underlying complex systems science.
 - *Synergetics: Introduction and Advanced Topics* (see [here](https://www.amazon.com/dp/3642074057?ref=ppx_yo2ov_dt_b_fed_asin_title)). Another of James' favorites—a summary of many of the methods used in the $R^3$ lab, accompanied by a deep philosophy of self-organizing systems.
+- *An Introduction to Mathematical Modelling* (see [here](https://people.maths.bris.ac.uk/~madjl/course_text.pdf)). A great start to understanding why we use mathematical models, and why they are useful.
+- *The Night Science Podcast* (see [here](https://night-science.org/)). Inspiring podcast by Itai Yanai and Martin Lercher centered around taking Science seriously as a creative process.
 
 More reading materials, on more specific topics of research, can be provided by the PI.
 
-All people considering joining the lab should be proficient in both basic **scientific programming** and **mathematical methods**. All members of the lab should take interest in both computational and mathematical approaches to theoretical biology.
+All people considering joining the lab should be proficient in both basic/intermediate **scientific programming** and **mathematical methods**. All members of the lab should take interest in both computational and mathematical approaches to theoretical biology.
 
 Interested **graduate or undergraduate students** should feel welcome to send [James an email](mailto:jamesholehouse1@gmail.com) declaring their interest. Please include a CV, and please keep the email short and to-the-point. Emails that appear to be AI generated, or overly verbose, may be ignored. Students are expected to engage on topics of joint interest with the PI. Graduate students should apply to either the Ecology & Evolutionary Biology (see [here](https://dbbs.wustl.edu/programs/ecology-evolutionary-biology/)) or Computational & Systems Biology (see [here](https://dbbs.wustl.edu/programs/computational-system-biology/)) graduate programs at WashU. 
 
