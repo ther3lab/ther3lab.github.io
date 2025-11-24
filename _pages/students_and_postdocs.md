@@ -17,7 +17,8 @@ For those interested in joining the lab, the recommended "reading" list is:
 - *The Complex World: An Introduction to the Foundations of Complexity Science* (see [here](https://www.amazon.com/Complex-World-Introduction-Foundations-Complexity/dp/1947864629)). Contemporary summary of the philosophy underlying complex systems science.
 - *Synergetics: Introduction and Advanced Topics* (see [here](https://www.amazon.com/dp/3642074057?ref=ppx_yo2ov_dt_b_fed_asin_title)). Another of James' favorites—a summary of many of the methods used in the $R^3$ lab, accompanied by a deep philosophy of self-organizing systems.
 - *An Introduction to Mathematical Modelling* (see [here](https://people.maths.bris.ac.uk/~madjl/course_text.pdf)). A great start to understanding why we use mathematical models, and why they are useful.
-- *The Night Science Podcast* (see [here](https://night-science.org/)). Inspiring podcast by Itai Yanai and Martin Lercher centered around taking Science seriously as a creative process.
+- *The Night Science Podcast* (see [here](https://night-science.org/)). Inspiring podcast by Itai Yanai and Martin Lercher centered around *taking Science seriously as a creative process*.
+- *Why Science Demands a Leap into the Unknown* (see [here](https://www.ted.com/talks/uri_alon_why_science_demands_a_leap_into_the_unknown#t-426474)). TED talk by Uri Alon highlighting the non-linear path of scientific progress. 
 
 More reading materials, on more specific topics of research, can be provided by the PI.
 
