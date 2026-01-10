@@ -24,7 +24,7 @@ The $R^3$ Lab is currently researching several questions on the evolution of reg
 </div>
 
 Research from the $R^3$ Lab on the evolution of regulatory systems:
-- **Holehouse, J., Jeong, D.**, Yoon, J., Kempes, C., West, G. B., & Youn, H. (2025). [a Dataset Showing a Century of
+- **Holehouse, J., Jeong, D.**, Yoon, J., Kempes, C., West, G. B., & Youn, H. (2025). [A Dataset Showing a Century of
 Evolution in the Complexity of the United States Legal Code. Nature Scientific Data.]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5354996](https://www.nature.com/articles/s41597-025-06313-w))
 - **Holehouse, J.** (2024-present). [The Sports Rules Project](https://www.sportsrulesproject.com/rule-books).
 - Chia, D., Youn, H., West, G.B., Jeong, D., **Holehouse, J.** (2025). The evolution of the rules of cricket. Working paper.
