@@ -25,6 +25,6 @@ The $R^3$ Lab is currently researching several questions on the role of stochast
 
 Research from the $R^3$ Lab on the role of stochasticity in gene regulation:
 - [Holehouse, J. (2026). Quantifying Broken Detailed Balance in Transcription. npj Complexity.](https://www.nature.com/articles/s44260-025-00064-w)
-- [Holehouse, J. (2026). Do Distinct Subpopulations Signify Modes of Behavior in a Noisy Single Cell? bioRxiv, 2025-07](https://www.biorxiv.org/content/10.1101/2025.07.22.666238v1.abstract)(accepted at Proceedings of the Royal Society B).
+- [Holehouse, J. (2026). Do Distinct Subpopulations Signify Modes of Behavior in a Noisy Single Cell? bioRxiv, 2025-07](https://www.biorxiv.org/content/10.1101/2025.07.22.666238v1.abstract) (accepted at Proceedings of the Royal Society B).
 - Pandya A., Holehouse, J. (2026). Transcriptional noise can tune the correlations between stages in the mRNA lifetime. Working paper.
 - Holehouse, J., Sukys, A., Kumar, A., Öcal, K. (2026). Phase transition into noise-driven transient bimodality. Working paper.
