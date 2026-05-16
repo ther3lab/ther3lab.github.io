@@ -28,5 +28,5 @@ Research from the $R^3$ Lab on the evolution of regulatory systems:
 Evolution in the Complexity of the United States Legal Code. Nature Scientific Data.](https://www.nature.com/articles/s41597-025-06313-w)
 - **Holehouse, J.** (2024-present). [The Sports Rules Project](https://www.sportsrulesproject.com/rule-books).
 - Chia, D., Youn, H., West, G.B., Jeong, D., **Holehouse, J.** (2025). The evolution of the rules of cricket. Working paper.
-- Estrella, L., Holehouse, J. (2025). How do gene regulatory networks successfully evolve in the presence of extreme environmental noise? Working paper.
+- Estrella, L., Holehouse, J. (2025). [How is gene-regulatory evolution affected by cell-to-cell variability?](https://arxiv.org/pdf/2604.26082)
 
