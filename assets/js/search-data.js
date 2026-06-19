@@ -68,7 +68,7 @@ ninja.data = [{
           section: "News",},{id: "news-james-gave-a-talk-at-washu-s-symposium-on-advances-in-digital-innovation-across-arts-amp-amp-science-and-beyond-on-the-topic-the-science-of-regulation",
           title: 'James gave a talk at WashU’s Symposium on Advances in Digital Innovation Across...',
           description: "",
-          section: "News",},{id: "news-james-gave-a-talk-at-the-national-institute-for-theory-and-mathematics-in-biology-s-workshop-on-extreme-events-in-biological-function-on-how-noise-shapes-transient-biological-function-you-can-find-the-slides-for-the-talk-here",
+          section: "News",},{id: "news-james-gave-a-talk-at-the-national-institute-for-theory-and-mathematics-in-biology-s-workshop-on-extreme-events-in-biological-function-on-how-noise-shapes-transient-biological-function-you-can-find-a-recording-of-the-talk-in-addition-to-all-other-talks-here",
           title: 'James gave a talk at the National Institute for Theory and Mathematics in...',
           description: "",
           section: "News",},{id: "projects-the-evolution-of-regulatory-systems",
