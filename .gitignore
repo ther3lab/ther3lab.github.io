@@ -11,3 +11,7 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# Private working documents -- never committed to this public repo
+*Research Statement*.pdf
+*:Zone.Identifier
