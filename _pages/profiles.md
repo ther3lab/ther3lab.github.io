@@ -36,7 +36,6 @@ The $R^3$ Lab's research is highly collaborative, spanning biology, physics, and
 
 **Santa Fe Institute era (2022–present)**
 - [José Ignacio Arroyo](https://sites.google.com/view/jiarroyo/) — Santa Fe Institute / Center for Mathematical Modeling
-- [Marc Berman](https://voices.uchicago.edu/bermanlab/) — University of Chicago
 - [Pavel L. Krapivsky](https://www.bu.edu/physics/profile/paul-krapivsky/) — Boston University
 - [Aanjaneya Kumar](https://www.santafe.edu/people/profile/aanjaneya-kumar) — Santa Fe Institute / Princeton University
 - [Asher Leeks](https://asherleeks.com/) — Yale University
