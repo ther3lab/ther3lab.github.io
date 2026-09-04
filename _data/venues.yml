@@ -1,9 +1,73 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Colors for the venue-abbreviation badges on the publications page.
+# Palette: Paul Tol's "muted" qualitative scheme (the same 9 colors as
+# Julia's ColorSchemes.jl `:tol_muted`), used as the base for the most
+# frequent/prominent venues, with lighter tints of the same 9 hues used
+# for the remaining venues so every tag stays in the same muted family.
+# `text` is picked per-color for WCAG contrast (light backgrounds get
+# dark text, dark backgrounds get white text) since the muted palette is
+# deliberately low-contrast and a single fixed text color isn't legible
+# against all of it.
 
-"PhysRev":
-  url: https://journals.aps.org/
+"arXiv":
+  color: "#332288" # indigo
+  text: "#FFFFFF"
 
-"Vision":
-  color: "#009f36"
+"bioRxiv":
+  color: "#88CCEE" # cyan
+  text: "#212529"
+
+"PNAS":
+  color: "#882255" # wine
+  text: "#FFFFFF"
+
+"Nat. Sci. Data":
+  color: "#CC6677" # rose
+  text: "#212529"
+
+"npj Comp.":
+  color: "#AA4499" # purple
+  text: "#FFFFFF"
+
+"Proc. B":
+  color: "#117733" # green
+  text: "#FFFFFF"
+
+"J. R. Soc. Interface":
+  color: "#999933" # olive
+  text: "#212529"
+
+"Sci. Advances":
+  color: "#44AA99" # teal
+  text: "#212529"
+
+"PLoS One":
+  color: "#DDCC77" # sand
+  text: "#212529"
+
+"JCP":
+  color: "#897FBA" # light indigo
+  text: "#212529"
+
+"Phys. Rev. E":
+  color: "#BAE1F5" # light cyan
+  text: "#212529"
+
+"J. Phys. A":
+  color: "#93CEC4" # light teal
+  text: "#212529"
+
+"J. Phys. Complexity":
+  color: "#75B089" # light green
+  text: "#212529"
+
+"Entropy":
+  color: "#CE93C4" # light purple
+  text: "#212529"
+
+"Biophysical Journal":
+  color: "#E1A6B0" # light rose
+  text: "#212529"
+
+"ESMTB Comms.":
+  color: "#C4C489" # light olive
+  text: "#212529"
