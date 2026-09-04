@@ -6,8 +6,6 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
-  background-image: radial-gradient(900px circle at var(--cursor-x) var(--cursor-y), var(--cursor-glow-near) 0%, var(--cursor-glow-far) 100%);
-  background-attachment: fixed;
 
   h1,
   h2,

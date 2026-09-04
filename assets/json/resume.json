@@ -154,6 +154,50 @@
       "summary": ""
     }
   ],
+  "mentoring": [
+    {
+      "position": "Shloka Janapaty",
+      "organization": "Columbia University",
+      "startDate": "2024",
+      "summary": "Now a PhD student in Ecology & Evolutionary Biology, Princeton University.",
+      "highlights": []
+    },
+    {
+      "position": "Nathan Hasegawa",
+      "organization": "Harvey Mudd College",
+      "startDate": "2023",
+      "summary": "Now a PhD student in Applied Math, Northwestern University.",
+      "highlights": []
+    },
+    {
+      "position": "Anish Pandya",
+      "organization": "University of Texas at Austin",
+      "startDate": "2023",
+      "summary": "Now a PhD student in Biophysics, University of Pennsylvania.",
+      "highlights": []
+    },
+    {
+      "position": "Leonardo Ivan Estrella Dzib",
+      "organization": "Minerva University",
+      "startDate": "2025",
+      "summary": "Now a PhD student in the $R^3$ Lab at WashU.",
+      "highlights": []
+    },
+    {
+      "position": "Daniel Chia",
+      "organization": "Carnegie Mellon University",
+      "startDate": "2025",
+      "summary": "Current mentee, working on the evolution of the rules of cricket, rugby, and related sports.",
+      "highlights": []
+    },
+    {
+      "position": "Nicole Hampton",
+      "organization": "Northwestern University",
+      "startDate": "2026",
+      "summary": "Current mentee, working on the evolution of the rules of cricket, rugby, and related sports.",
+      "highlights": []
+    }
+  ],
   "service": [
     {
       "position": "Curriculum Director",

@@ -6,11 +6,8 @@
 
 :root {
   color-scheme: light;
-  --cursor-glow-far: #eaf2fb;
-  --cursor-glow-near: #6fa3da;
-  --cursor-x: 50vw;
-  --cursor-y: 50vh;
-  --global-bg-color: #{$white-color};
+  --global-bg-color: #d6eae6; // duck egg blue
+
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
@@ -82,8 +79,6 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --cursor-glow-far: transparent;
-  --cursor-glow-near: transparent;
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};

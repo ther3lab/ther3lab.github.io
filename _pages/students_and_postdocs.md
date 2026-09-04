@@ -7,13 +7,6 @@ nav: true
 nav_order: 10
 ---
 
-Since 2022, James has mentored **9 students and postdocs** through Santa Fe Institute research programs, several of whom have gone on to strong graduate programs:
-- Shloka Janapaty (Columbia University) → PhD in Ecology & Evolutionary Biology, Princeton University
-- Nathan Hasegawa (Harvey Mudd College) → PhD in Applied Math, Northwestern University
-- Anish Pandya (University of Texas at Austin) → PhD in Biophysics, University of Pennsylvania
-- Leonardo Ivan Estrella Dzib (Minerva University) → now a PhD student in the $R^3$ Lab at WashU
-- Daniel Chia (Carnegie Mellon University) and Nicole Hampton (Northwestern University) are current mentees, working on the evolution of the rules of cricket, rugby, and related sports
-
 For those interested in joining the lab, the recommended "reading" list is:
 
 - *Exploring complexity* (see [here](https://www.amazon.com/Exploring-Complexity-Introduction-Gregoire-Nicolis/dp/0716718596)). Classic introduction to a broad array of complexity science and mathematical biology.
