@@ -38,7 +38,6 @@ The $R^3$ Lab's research is highly collaborative, spanning biology, physics, and
 - [José Ignacio Arroyo](https://sites.google.com/view/jiarroyo/) — Santa Fe Institute / Center for Mathematical Modeling
 - [Pavel L. Krapivsky](https://www.bu.edu/physics/profile/paul-krapivsky/) — Boston University
 - [Aanjaneya Kumar](https://www.santafe.edu/people/profile/aanjaneya-kumar) — Santa Fe Institute / Princeton University
-- [Asher Leeks](https://asherleeks.com/) — Yale University
 - [Kaan Öcal](https://kaandocal.github.io/) — University of Melbourne
 - [C. Brandon Ogbunugafor](https://ogbunulab.yale.edu/) — Yale University / Santa Fe Institute
 - [Anish Pandya](https://www.physics.upenn.edu/people/anish-pandya) — University of Pennsylvania
