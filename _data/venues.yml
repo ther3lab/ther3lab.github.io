@@ -3,71 +3,74 @@
 # Julia's ColorSchemes.jl `:tol_muted`), used as the base for the most
 # frequent/prominent venues, with lighter tints of the same 9 hues used
 # for the remaining venues so every tag stays in the same muted family.
-# `text` is picked per-color for WCAG contrast (light backgrounds get
-# dark text, dark backgrounds get white text) since the muted palette is
-# deliberately low-contrast and a single fixed text color isn't legible
-# against all of it.
+#
+# Each badge renders as a translucent tint of `rgb` (so it reads correctly
+# against both the light and dark theme's page background) with a solid
+# `color` border for hue identity, and text in the theme's own body-text
+# color -- which is already guaranteed legible against the page background
+# in both themes, rather than picking a fixed text color per venue that
+# would only work in one theme.
 
 "arXiv":
   color: "#332288" # indigo
-  text: "#FFFFFF"
+  rgb: "51, 34, 136"
 
 "bioRxiv":
   color: "#88CCEE" # cyan
-  text: "#212529"
+  rgb: "136, 204, 238"
 
 "PNAS":
   color: "#882255" # wine
-  text: "#FFFFFF"
+  rgb: "136, 34, 85"
 
 "Nat. Sci. Data":
   color: "#CC6677" # rose
-  text: "#212529"
+  rgb: "204, 102, 119"
 
 "npj Comp.":
   color: "#AA4499" # purple
-  text: "#FFFFFF"
+  rgb: "170, 68, 153"
 
 "Proc. B":
   color: "#117733" # green
-  text: "#FFFFFF"
+  rgb: "17, 119, 51"
 
 "J. R. Soc. Interface":
   color: "#999933" # olive
-  text: "#212529"
+  rgb: "153, 153, 51"
 
 "Sci. Advances":
   color: "#44AA99" # teal
-  text: "#212529"
+  rgb: "68, 170, 153"
 
 "PLoS One":
   color: "#DDCC77" # sand
-  text: "#212529"
+  rgb: "221, 204, 119"
 
 "JCP":
   color: "#897FBA" # light indigo
-  text: "#212529"
+  rgb: "137, 127, 186"
 
 "Phys. Rev. E":
   color: "#BAE1F5" # light cyan
-  text: "#212529"
+  rgb: "186, 225, 245"
 
 "J. Phys. A":
   color: "#93CEC4" # light teal
-  text: "#212529"
+  rgb: "147, 206, 196"
 
 "J. Phys. Complexity":
   color: "#75B089" # light green
-  text: "#212529"
+  rgb: "117, 176, 137"
 
 "Entropy":
   color: "#CE93C4" # light purple
-  text: "#212529"
+  rgb: "206, 147, 196"
 
 "Biophysical Journal":
   color: "#E1A6B0" # light rose
-  text: "#212529"
+  rgb: "225, 166, 176"
 
 "ESMTB Comms.":
   color: "#C4C489" # light olive
-  text: "#212529"
+  rgb: "196, 196, 137"
