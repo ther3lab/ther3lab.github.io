@@ -55,7 +55,24 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    {% if entry.summary %}
+      {% assign summary_venue_rgb = "108, 117, 125" %}
+      {% if site.data.venues[entry.abbr].rgb != blank %}
+        {% assign summary_venue_rgb = site.data.venues[entry.abbr].rgb %}
+      {%- endif -%}
+      {% capture summary_popover %}<div style="background-color:rgba({{ summary_venue_rgb }}, 0.18); margin:-0.5rem; padding:0.5rem 0.75rem; border-radius:4px;"><strong>{{ entry.summary }}</strong></div>{% endcapture %}
+      <div
+        class="title"
+        style="cursor:help; text-decoration:underline dotted; text-underline-offset:3px;"
+        data-toggle="popover"
+        data-trigger="hover"
+        data-html="true"
+        data-placement="bottom"
+        data-content="{{ summary_popover | escape }}"
+      >{{ entry.title }}</div>
+    {% else %}
+      <div class="title">{{ entry.title }}</div>
+    {% endif %}
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -191,19 +208,6 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
-
-    {% if entry.summary %}
-      {% assign venue_rgb = "108, 117, 125" %}
-      {% if site.data.venues[entry.abbr].rgb != blank %}
-        {% assign venue_rgb = site.data.venues[entry.abbr].rgb %}
-      {%- endif -%}
-      <div
-        class="lab-relevance"
-        style="border:2px solid #000; background-color:rgba({{ venue_rgb }}, 0.18); border-radius:4px; padding:0.5rem 0.85rem; margin:0.5rem 0;"
-      >
-        <strong>{{ entry.summary }}</strong>
-      </div>
-    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
