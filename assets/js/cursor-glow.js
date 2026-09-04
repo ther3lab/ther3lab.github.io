@@ -1,1 +1,0 @@
-!function(){function e(){t.style.setProperty("--cursor-x",o+"px"),t.style.setProperty("--cursor-y",r+"px"),i=!1}function n(n){o=n.clientX,r=n.clientY,i||(window.requestAnimationFrame(e),i=!0)}var t=document.documentElement,i=!1,o=window.innerWidth/2,r=window.innerHeight/2;window.addEventListener("mousemove",n,{passive:!0})}();
