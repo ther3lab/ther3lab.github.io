@@ -31,3 +31,4 @@ Research from the $R^3$ Lab on the evolution of regulatory systems:
 - Kumar, A., & **Holehouse, J.** (2026). [Branching under First-Passage Resetting.](https://arxiv.org/abs/2605.16693) arXiv:2605.16693. In revision at Physical Review Letters.
 - Dzib, L. I. E., & **Holehouse, J.** (2026). [How is gene-regulatory evolution affected by cell-to-cell variability?](https://arxiv.org/pdf/2604.26082) arXiv:2604.26082. In revision at Evolution.
 - **Holehouse, J.** (2024–present). [The Sports Rules Project.](https://www.sportsrulesproject.com/rule-books)
+- **Holehouse, J.**, Chia, D., West, G. B., Salinas, S., Miller, A., & Ogbunugafor, C. B. *The Social Systems Biology of Rules and Regulations.* Forthcoming.
