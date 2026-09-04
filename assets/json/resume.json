@@ -15,6 +15,20 @@
       {
         "network": "Google Scholar",
         "url": "https://scholar.google.com/citations?user=mNYEw90AAAAJ&hl=en"
+      },
+      {
+        "network": "GitHub",
+        "username": "jamesholehouse",
+        "url": "https://github.com/jamesholehouse"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "james-holehouse-phd",
+        "url": "https://www.linkedin.com/in/james-holehouse-phd"
+      },
+      {
+        "network": "ORCID",
+        "url": "https://orcid.org/0000-0002-3177-6069"
       }
     ]
   },
