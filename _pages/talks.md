@@ -7,6 +7,7 @@ nav: true
 nav_order: 8
 ---
 
+- **Workshop talk** at the National Institute for Theory and Mathematics in Biology's workshop on *Extreme Events in Biological Function*. 2026. *How Noise Shapes Transient Biological Function.* [Watch here](https://www.nitmb.org/extreme-events-workshop)
 - **Symposium Talk** at Washington University in St. Louis' Symposium on Advances in Digital Innovation Across Arts \& Science and Beyond. 2026. *The Science of Regulation.*
 - **Symposium Talk** at SFI's Annual Fall Symposium on The Rules of the Game. 2025. *The Science of Sports Rules*.
 - **Workshop talk** at the Emergent Simplicity in Biophysical Dynamics Workshop in Telluride Science. 2025. *Universal Models of Diversity Growth and Regulatory Scaling*.
@@ -20,6 +21,7 @@ nav_order: 8
 - **Workshop talk** at the Santa Fe Institute's Emergent Engineering Workshop. 2024. *Unnecessary Bureaucracy? Understanding the growth of rules and unifying principles in biological and social systems.*
 - **Invited talk** at the London Mathematical Laboratory's Ergodicty Economics seminar series. 2024. *First-passage time distributions in one-dimensional ruin problems.* [Watch here](https://streamyard.com/watch/rX5JKWdcKYEt)
 - **Invited talk** at the University of Warwick, Departments of Mathematics and Life Sciences. 2024. *Universal principles of regulation: diversity, stochasticity, and constraints.*
+- **Seminar** at the University of Warwick, Departments of Mathematics and Life Sciences. 2024. *Universal principles of regulation: diversity, stochasticity, and constraints.*
 - **Invited talk** at the Postdocs in Complexity: Global Summit at the Santa Fe Institute, USA. 2024. *Population dynamics of viral cheating with length-dependent selection.*
 - **Contributed talk** at the Conference on Complex Systems 2024 in Exeter. *First-passage on disordered intervals.*
 - **Plenary talk** at the European Conference for Mathematical and Theoretical Biology 2024 in Toledo. *Breaking steady state assumptions in models of stochastic chemical kinetics.*
