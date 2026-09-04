@@ -60,7 +60,7 @@
       {% if site.data.venues[entry.abbr].rgb != blank %}
         {% assign summary_venue_rgb = site.data.venues[entry.abbr].rgb %}
       {%- endif -%}
-      {% capture summary_popover %}<div style="background-color:rgba({{ summary_venue_rgb }}, 0.18); margin:-0.5rem; padding:0.5rem 0.75rem; border-radius:4px;"><strong>{{ entry.summary }}</strong></div>{% endcapture %}
+      {% capture summary_popover %}<div style="border:2px solid #000; background-color:rgba({{ summary_venue_rgb }}, 0.18); margin:-0.5rem; padding:0.5rem 0.75rem; border-radius:4px;"><strong>{{ entry.summary }}</strong></div>{% endcapture %}
       <div
         class="title"
         style="cursor:help; text-decoration:underline dotted; text-underline-offset:3px;"
