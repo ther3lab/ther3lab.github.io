@@ -26,9 +26,9 @@ announcements:
 
 #### We develop a Science of Regulation that unifies how regulatory systems—from transcription factors to legal codes—grow, diversify, and remain robust across Biology and Society.
 
-Regulation is necessary across all scales of life: transcription factors coordinate gene expression inside cells, nervous systems coordinate organs in multicellular organisms, and laws from centralized institutions coordinate people in societies. It is a cost—paid in cellular resources, metabolic energy, or administrative labor—that buys stability and robustness. The $R^3$ Lab's research asks how far this cross-system analogy goes, through three interconnected questions:
-- **How do regulatory systems grow?** From simple prokaryotic gene-regulatory networks to the highly interconnected legal codes governing societies, we look for quantitative laws governing the long-term evolution of regulation.
-- **How does the diversity of functions they regulate arise?** We build generative models—calibrated to proteomes, cell types, cities, federal agencies, and microbial ecologies—that explain statistical regularities shared across radically different systems.
-- **How do regulatory systems remain robust while operating in noisy and changing environments?** We study how intrinsic and environmental randomness shapes the evolution and transient (non-steady-state) dynamics of regulatory networks.
+Regulation shows up at every scale: transcription factors coordinate genes inside cells, nervous systems coordinate organs, and laws coordinate people. It always costs something—energy, labor, resources—but buys stability in return. The $R^3$ Lab asks how far that analogy goes, through three questions:
+- **Growth.** How do regulatory systems grow, from a handful of rules to sprawling interconnected networks?
+- **Diversity.** How does the diversity they regulate arise—and can one model explain it across systems as different as proteomes and cities?
+- **Robustness.** How do regulatory systems stay robust to noise, both the random kind inside cells and the unpredictable kind in the outside world?
 
 James Holehouse, the PI, is an assistant professor at **WashU's department of Biology**, having joined the department in Fall 2026 after a postdoc at the Santa Fe Institute. The Lab is actively recruiting PhD students and Postdocs from Comp Bio, Math Bio, Evo Bio, Applied Math, and Statistical Physics backgrounds—please see [here](https://ther3lab.github.io/students_and_postdocs/)!
