@@ -53,7 +53,16 @@ $(document).ready(function () {
   });
 
   // trigger popovers
+  // Extend the default sanitizer allowlist so popover content (e.g. the
+  // publication-title explainer boxes, which is static text the site owner
+  // writes into papers.bib, not user input) can carry a style attribute --
+  // Bootstrap strips it by default, and that filter can only be widened via
+  // JS options, never via a per-element data-* attribute.
+  var popoverWhiteList = $.fn.popover.Constructor.Default.whiteList;
+  popoverWhiteList.div = (popoverWhiteList.div || []).concat("style");
+  popoverWhiteList.strong = (popoverWhiteList.strong || []).concat("style");
   $('[data-toggle="popover"]').popover({
     trigger: "hover",
+    whiteList: popoverWhiteList,
   });
 });
