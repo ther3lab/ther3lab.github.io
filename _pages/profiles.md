@@ -11,12 +11,13 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: James©Merriam010.jpg
-    content: about_james_postdoc.md
+    content: about_james.md
     image_circular: false # crops the image to make it circular
     more_info: >
      <p>James Holehouse</p>
-     <p>Santa Fe Institute</p>
-     <p>Santa Fe, NM, 87501</p>
+     <p>209 Rebstock Hall</p>
+     <p>Washington University</p>
+     <p>St Louis, USA</p>
   - align: right
     image: leo-photo.jpg
     content: about_leo.md
