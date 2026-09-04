@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "For the full, most current CV (including references), see the PDF version.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-students-and-postdocs",
           title: "students and postdocs",
           description: "suggested readings and advice for prospective members",
