@@ -192,6 +192,19 @@
       {{ entry.note | strip }}
     </div>
 
+    {% if entry.summary %}
+      {% assign venue_rgb = "108, 117, 125" %}
+      {% if site.data.venues[entry.abbr].rgb != blank %}
+        {% assign venue_rgb = site.data.venues[entry.abbr].rgb %}
+      {%- endif -%}
+      <div
+        class="lab-relevance"
+        style="border:2px solid #000; background-color:rgba({{ venue_rgb }}, 0.18); border-radius:4px; padding:0.5rem 0.85rem; margin:0.5rem 0;"
+      >
+        <strong>{{ entry.summary }}</strong>
+      </div>
+    {% endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
