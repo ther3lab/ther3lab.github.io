@@ -1,3 +1,10 @@
+{% if site.redirect_to %}
+  <!-- Site has moved: send every page to the new domain immediately -->
+  <meta http-equiv="refresh" content="0; url={{ site.redirect_to }}">
+  <script>
+    window.location.replace("{{ site.redirect_to }}");
+  </script>
+{% endif %}
 <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
 
 <!-- Metadata, OpenGraph and Schema.org -->
@@ -69,7 +76,7 @@
   <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache}}">
 {% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+<link rel="canonical" href="{% if site.redirect_to %}{{ site.redirect_to }}{% else %}{{ page.url | replace:'index.html','' | absolute_url }}{% endif %}">
 
 <!-- Dark Mode -->
 <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
